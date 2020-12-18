@@ -1,3 +1,3 @@
-# design_app_example
+# Goal
   I used "Cards" to perform more proffesional UI. 
 
